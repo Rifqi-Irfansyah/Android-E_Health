@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">E_Health</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="validasi_logout">Apakah anda yakin ingin\nLogout?</string>
+    <string name="tips1">Tips Diet</string>
+    <string name="subTips1">Sarapan Pagi</string>
+    <string name="subTips2">Kurangi Gula</string>
+    <string name="subTips3">Makan Teratur</string>
+    <string name="subTips4">Makan Cukup</string>
+    <string name="subTips5">Hindari Jajan</string>
+
+    <string name="rekomen">Rekomendasi Untukmu</string>
+    <string name="rekomen1">Cara Mudah\nBelajar Berenang</string>
+    <string name="rekomen2">5 Jenis Olahraga\nKardio di Rumah</string>
+    <string name="rekomen3">Ultimate Workout\nRoutine for Men</string>
+    <string name="author1">Diah Ayu</string>
+    <string name="author2">dr. Rizal Fadli</string>
+    <string name="author3">Reda Elmardi</string>
+
+
+    <string name="source">Gramedia | Pinterest | unDraw | freepik\n@firology | college_infogeek</string>
+    <string name="dfPesan">Tidak Ada Pesan</string>
+    <string name="TitleGallery">Our Gallery</string>
+
+
+    <string name="gradient">gradient</string>
+    <string name="pw">password</string>
+    <string name="submit">Submit</string>
+    <string name="user">username</string>
+    <string name="logo">logo</string>
+    <string name="splash">Novel Serial Bumi</string>
+    <string name="tereliye">Tere Liye</string>
+    <string name="smart_health">Smart Health</string>
+
+    <string name="nutrition">Nutrition</string>
+    <string name="penjelasan"><b>Nutrisi</b> penting bagi pertumbuhan tulang dan kesehatan tulang secara keseluruhan. Nutrien yang tepat dapat meningkatkan produksi HGH (Hormon Pertumbuhan Manusia) dan memberikan kontribusi bagi pertumbuhan tulang</string>
+    <string name="nt1"><b>Kalsium</b></string>
+    <string name="nt2"><b>Protein</b></string>
+    <string name="nt3"><b>Vitamin</b></string>
+    <string name="snt1">2–3 Gelas</string>
+    <string name="snt2">150–180 g</string>
+    <string name="snt3">2–4 buah</string>
+
+    <string name="work_out">Work Out</string>
+    <string name="wo1"><b>Senin</b></string>
+    <string name="wo2"><b>Selasa</b></string>
+    <string name="wo3"><b>Rabu</b></string>
+    <string name="wo4"><b>Kamis</b></string>
+    <string name="wo5"><b>Jumat</b></string>
+    <string name="wo6"><b>Sabtu</b></string>
+    <string name="wo7"><b>Minggu</b></string>
+    <string name="swo1">Dada - Trisep</string>
+    <string name="swo2">Punggung - Biceps</string>
+    <string name="swo3">Rest</string>
+    <string name="swo4">Pundak - Lengan - Kaki</string>
+    <string name="swo5">Rest</string>
+    <string name="swo6">Dada - Punggung - Pundak</string>
+    <string name="swo7">Kaki</string>
+    <string name="title_activity_pop_up">PopUp</string>
+
+    <string name="title_activity_turu">Turu</string>
+    <string name="turu">Durasi Tidur</string>
+    <string name="usia_00">1-18 Bulan</string>
+    <string name="usia_0">3–6 Tahun</string>
+    <string name="usia_1">6–12 Tahun</string>
+    <string name="usia_2">12–18 Tahun</string>
+    <string name="usia_3">18–40 Tahun</string>
+    <string name="durasi_00">12–14 jam</string>
+    <string name="durasi_0">11–13 jam</string>
+    <string name="durasi_1">10 jam</string>
+    <string name="durasi_2">8–9 jam</string>
+    <string name="durasi_3">7–8 jam</string>
+
+</resources>
